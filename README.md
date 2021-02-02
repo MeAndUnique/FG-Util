@@ -1,2 +1,2 @@
-# FantasyGrounds
-Content for use in Fantasy Grounds.
+# FG Util
+Utilities for Fantasy Grounds Projects
